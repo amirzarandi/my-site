@@ -21,6 +21,7 @@ h2 {
 
 h3 {
   font-family: 'Montserrat', sans-serif;
+  max-height: 2em;
   color: #11999E;
 }
 
@@ -162,5 +163,6 @@ a:hover {
 .copyright {
   color: #EAF6F6;
   font-size: 0.75rem;
+  max-height: 2em;
   padding: 20px 0;
 }
